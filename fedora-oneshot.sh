@@ -1,4 +1,5 @@
 #!/usr/bin/env bash 
+set -e 
 
 # Enable rpm fusion 
 # rpm fusion for non free software 
